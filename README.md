@@ -39,5 +39,6 @@ $ Gradle Wrappe .
 ```
 
 ## Documentation
+Go to see documentation:<br/>
 [Technical Documentation](./doc/doc.md)\
 [User Documentation](./doc/user_doc.md)
