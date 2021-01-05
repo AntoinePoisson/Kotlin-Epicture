@@ -12,22 +12,22 @@ This project was made in **Kotlin**.
 
 ## Look:
 
- - Main Page:
+### Main Page:
 <p align="left">
 <img src="/doc/img/look_1.png" alt="look"/><br/>
 </p>
 
- - Thread Page:
+### Thread Page:
 <p align="left">
 <img src="/doc/img/look_2.png" alt="look"/><br/>
 </p>
 
- - Search Page:
+### Search Page:
 <p align="left">
 <img src="/doc/img/look_4.png" alt="look"/><br/>
 </p>
 
- - Account Page:
+### Account Page:
 <p align="left">
 <img src="/doc/img/look_3.png" alt="look"/><br/>
 </p>
