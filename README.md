@@ -1,4 +1,4 @@
-# Epicture
+# Kotlin-Epicture
 
 ## Purpose:
 
